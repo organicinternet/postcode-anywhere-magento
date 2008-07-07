@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+	    <OrganicInternet_PostcodeAnywhere>
+	        <active>true</active>
+	        <codePool>community</codePool>
+	        <frontend>
+		      <layout>
+		          <updates>
+		              <organicinternet_postcodeanywhere>
+		                  <file>postcodeanywhere.xml</file>
+		              </organicinternet_postcodeanywhere>
+		         </updates>
+		      </layout>
+		   </frontend>
+	    </OrganicInternet_PostcodeAnywhere>
+	</modules>
+</config>

@@ -1,0 +1,11 @@
+PostcodeAnywhere module for Magento
+-----------------------------------
+
+Users install the module from Magento Connect
+
+Developers symlink files to the following paths inside your magento installation:
+
+app_code_community_OrganicInternet_PostcodeAnywhere -> app/code/community/OrganicInternet_PostcodeAnywhere
+app_design_frontend_default_default_layout_organicinternet_postcodeanywhere.xml -> app/design/frontend/default/default/layout/organicinternet_postcodeanywhere.xml
+app_etc_modules_OrganicInternet_PostcodeAnywhere.xml -> app/etc/modules/OrganicInternet_PostcodeAnywhere.xml
+js_postcodeanywhere.js -> js/postcodeanywhere.js
